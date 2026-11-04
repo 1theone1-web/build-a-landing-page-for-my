@@ -16,6 +16,18 @@
       "created_at": "2026-11-04T12:33:55.601Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "f22cd6d3-b13d-4f63-917d-10fa30fae803",
+      "role": "user",
+      "content": "ما الفرق بينك وبين انتي جرافيتي الخاص بكوكل وما الميزات التي يتفوق عليها بك؟",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-04T12:36:51.999Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
