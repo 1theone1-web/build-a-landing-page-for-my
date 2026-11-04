@@ -40,6 +40,18 @@
       "created_at": "2026-11-04T12:37:24.294Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "69d85456-78b6-4098-baa9-9f7d7cc077e9",
+      "role": "user",
+      "content": "لا كما فهمت ان كنت انت نفسك انتي جرفتي فهذا جيد جدا بلنسبة الي انا كنت استخدم انتي جرفيتي على هاتفي بستخدام محاكي لينكس دبيان ولا اعلم انه يوجد تطبيق على الهاتف اريد ان احمل لك الاضافات ما الفرق بين الاضافتات الخاصة بك وبين الخاصة بلينكس؟",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-04T12:43:01.018Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
